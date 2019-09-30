@@ -75,23 +75,25 @@ justify-content: center;
     height: 17cm;
     border-bottom: 6px solid gray;
     
+    
     } 
 #textolateral-izq h1{
     color: white;
     display: flex;
-        
+    justify-content: left
+
     }
 #textolateral-izq h4{
     color: white;
     display: flex;
-    
+    justify-content: left;    
         
         
         }
 #textolateral-izq{
     display: flex;
     flex-direction: column;
-    align-items: left;
+    align-items: flex-start;
     font-size: 136%;
     padding: 4cm 11cm;
 }
