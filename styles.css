@@ -74,17 +74,17 @@ justify-content: center;
     background-size: 30cm;
     height: 17cm;
     border-bottom: 6px solid gray;
+    
     } 
 #textolateral-izq h1{
     color: white;
     display: flex;
-    align-items: left;
-    
+        
     }
 #textolateral-izq h4{
     color: white;
     display: flex;
-    align-items: left;
+    
         
         
         }
